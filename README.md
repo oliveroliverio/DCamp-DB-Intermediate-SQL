@@ -2,7 +2,15 @@
 # [Intermediate SQL](https://app.datacamp.com/learn/courses/intermediate-sql)
 
 # 1 We'll take the CASE
-
+![](img/2021-11-28-10-15-24.png)
+![](img/2021-11-28-10-15-35.png)
+![](img/2021-11-28-10-15-46.png)
+![](img/2021-11-28-10-16-20.png)
+![](img/2021-11-28-10-17-05.png)
+![](img/2021-11-28-10-17-14.png)
+![](img/2021-11-28-10-17-32.png)
+![](img/2021-11-28-10-17-39.png)
+![](img/2021-11-28-10-17-46.png)
 
 
 ## We'll take the CASE
